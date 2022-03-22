@@ -1,0 +1,10 @@
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\bin\Debug\MultiplicacaoDeMatrizes.exe.config
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\bin\Debug\MultiplicacaoDeMatrizes.exe
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\bin\Debug\MultiplicacaoDeMatrizes.pdb
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.csprojAssemblyReference.cache
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.Form1.resources
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.Properties.Resources.resources
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.csproj.GenerateResource.cache
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.exe
+C:\Users\fernando\OneDrive\Visual Studio\MultiplicacaoDeMatrizes\MultiplicacaoDeMatrizes\obj\Debug\MultiplicacaoDeMatrizes.pdb
